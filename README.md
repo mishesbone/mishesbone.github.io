@@ -8,7 +8,7 @@ This web portal is designed to showcase:
 - **Skills**: A comprehensive list of technical and professional skills.
 - **Contact Information**: Details to connect with me for collaboration or inquiries.
 
-The portal is built using HTML and CSS for a lightweight and responsive experience, hosted via GitHub Pages at [mishesbone.github.io](https://mishesbone.github.io).
+The portal is built using HTML and CSS for a lightweight and responsive experience, hosted via GitHub Pages at [mishesbone.github.io](https://mishesbone.github.io)
 
 
 ## **Features**
