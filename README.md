@@ -43,7 +43,7 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 Contact
 For inquiries or collaboration opportunities:
 
-Email: itsmishesbone@gmail.com
+Email: itsmishesbone@gmail.com or whatsapp: +2349120980217
 Location: Lagos State, Nigeria
 Website: mishesbone.github.io
 Developed and Maintained by Fwangshak Mishwatts
